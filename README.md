@@ -2,7 +2,7 @@
 
 Tengjiao Sun, Pengcheng Fang, Xiaoyu Zhan, Dongjie Fu, Xiaohao Cai, Hansung Kim
 
-**Paper** (arXiv, link coming soon) · **Weights** ([HuggingFace](https://huggingface.co/Tevior/TopX-OOD)) · **Project page** ([chdtevior.github.io/TopX-page](https://chdtevior.github.io/TopX-page/))
+**Paper** ([arXiv:2610.34321](https://arxiv.org/abs/2610.34321)) · **Weights** ([HuggingFace](https://huggingface.co/Tevior/TopX-OOD)) · **Project page** ([chdtevior.github.io/TopX-page](https://chdtevior.github.io/TopX-page/))
 
 TopX is a 73M-parameter flow-matching transformer that generates joint rotations and a root trajectory for any
 skeleton from its kinematic tree, rest pose and joint names, without clips of the character, templates, retargeting or
@@ -93,7 +93,7 @@ and the annotations theirs; see `demo/README.md`.
 @article{sun2026topx,
   title   = {TopX: Text-to-Motion for Unseen Skeletons from the Skeleton File Alone},
   author  = {Sun, Tengjiao and Fang, Pengcheng and Zhan, Xiaoyu and Fu, Dongjie and Cai, Xiaohao and Kim, Hansung},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2610.34321},
   year    = {2026}
 }
 ```
