@@ -2,7 +2,7 @@
 
 Tengjiao Sun, Pengcheng Fang, Xiaoyu Zhan, Dongjie Fu, Xiaohao Cai, Hansung Kim
 
-**Paper** (arXiv, link coming soon) · **Weights** ([HuggingFace](https://huggingface.co/Tevior/TopX-OOD)) · **Project page** (coming soon)
+**Paper** (arXiv, link coming soon) · **Weights** ([HuggingFace](https://huggingface.co/Tevior/TopX-OOD)) · **Project page** ([chdtevior.github.io/TopX-page](https://chdtevior.github.io/TopX-page/))
 
 TopX is a 73M-parameter flow-matching transformer that generates joint rotations and a root trajectory for any
 skeleton from its kinematic tree, rest pose and joint names, without clips of the character, templates, retargeting or
