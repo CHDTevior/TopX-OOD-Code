@@ -1,0 +1,28 @@
+{
+ "rig": "OBJ_c0baad2baee5467894087856cac1872b",
+ "body_plan": "quadrupedal",
+ "joints": 37,
+ "source": {
+  "name": "Low poly Snake - Wolf Animated",
+  "author": "imitate",
+  "author_url": "https://sketchfab.com/imitate",
+  "license": "CC Attribution",
+  "license_slug": "by",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "url": "https://sketchfab.com/3d-models/low-poly-snake-wolf-animated-c0baad2baee5467894087856cac1872b",
+  "retrieved": "2026-09-26",
+  "object_id": "c0baad2baee5467894087856cac1872b"
+ },
+ "prompts": [
+  {
+   "text": "An object crouches and then stands while flapping its arms.",
+   "text_emb": "text_emb_1.npy",
+   "seed": 7,
+   "frames": 113,
+   "reference": [
+    "ref_1.gif",
+    "ref_1.bvh"
+   ]
+  }
+ ]
+}

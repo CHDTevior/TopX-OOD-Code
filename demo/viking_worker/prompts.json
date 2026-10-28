@@ -1,0 +1,38 @@
+{
+ "rig": "OBJ_cef34035d74c4dfdb9cad45fa36da294",
+ "body_plan": "bipedal",
+ "joints": 30,
+ "source": {
+  "name": "Viking Framps Worker",
+  "author": "RG3D",
+  "author_url": "https://sketchfab.com/Reifus.Rufus",
+  "license": "CC Attribution",
+  "license_slug": "by",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "url": "https://sketchfab.com/3d-models/viking-framps-worker-cef34035d74c4dfdb9cad45fa36da294",
+  "retrieved": "2026-09-26",
+  "object_id": "cef34035d74c4dfdb9cad45fa36da294"
+ },
+ "prompts": [
+  {
+   "text": "An object falls backward and lies on its back.",
+   "text_emb": "text_emb_1.npy",
+   "seed": 17,
+   "frames": 68,
+   "reference": [
+    "ref_1.gif",
+    "ref_1.bvh"
+   ]
+  },
+  {
+   "text": "An object crouches and falls forward.",
+   "text_emb": "text_emb_2.npy",
+   "seed": 17,
+   "frames": 34,
+   "reference": [
+    "ref_2.gif",
+    "ref_2.bvh"
+   ]
+  }
+ ]
+}

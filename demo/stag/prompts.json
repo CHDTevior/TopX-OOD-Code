@@ -1,0 +1,28 @@
+{
+ "rig": "OBJ_4798d8c87a0e4ad8835217fe93ddf67b",
+ "body_plan": "quadrupedal",
+ "joints": 28,
+ "source": {
+  "name": "Roaring Stag ( deepdreamed )",
+  "author": "Miguelangelo Rosario",
+  "author_url": "https://sketchfab.com/miguelangelo2k",
+  "license": "CC Attribution",
+  "license_slug": "by",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "url": "https://sketchfab.com/3d-models/roaring-stag-deepdreamed-4798d8c87a0e4ad8835217fe93ddf67b",
+  "retrieved": "2026-09-26",
+  "object_id": "4798d8c87a0e4ad8835217fe93ddf67b"
+ },
+ "prompts": [
+  {
+   "text": "An object rears up and lowers its head.",
+   "text_emb": "text_emb_1.npy",
+   "seed": 7,
+   "frames": 92,
+   "reference": [
+    "ref_1.gif",
+    "ref_1.bvh"
+   ]
+  }
+ ]
+}

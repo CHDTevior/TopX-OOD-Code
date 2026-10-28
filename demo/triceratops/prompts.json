@@ -1,0 +1,38 @@
+{
+ "rig": "OBJ_d8b6a381f36c46f8b1d59ed6e0b57c65",
+ "body_plan": "quadrupedal",
+ "joints": 29,
+ "source": {
+  "name": "Triceratops occultatum",
+  "author": "Miguelangelo Rosario",
+  "author_url": "https://sketchfab.com/miguelangelo2k",
+  "license": "CC Attribution",
+  "license_slug": "by",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "url": "https://sketchfab.com/3d-models/triceratops-occultatum-d8b6a381f36c46f8b1d59ed6e0b57c65",
+  "retrieved": "2026-09-26",
+  "object_id": "d8b6a381f36c46f8b1d59ed6e0b57c65"
+ },
+ "prompts": [
+  {
+   "text": "An object walks in place.",
+   "text_emb": "text_emb_1.npy",
+   "seed": 7,
+   "frames": 61,
+   "reference": [
+    "ref_1.gif",
+    "ref_1.bvh"
+   ]
+  },
+  {
+   "text": "An object stomps its feet in place.",
+   "text_emb": "text_emb_2.npy",
+   "seed": 7,
+   "frames": 130,
+   "reference": [
+    "ref_2.gif",
+    "ref_2.bvh"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "rig": "OBJ_237ce5d21a3c4bcab51f34a4ab451587",
+ "body_plan": "insectoid",
+ "joints": 24,
+ "source": {
+  "name": "Blackarachnia",
+  "author": "PCIXOPAT",
+  "author_url": "https://sketchfab.com/PCIXOPAT",
+  "license": "CC Attribution",
+  "license_slug": "by",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "url": "https://sketchfab.com/3d-models/blackarachnia-237ce5d21a3c4bcab51f34a4ab451587",
+  "retrieved": "2026-09-26",
+  "object_id": "237ce5d21a3c4bcab51f34a4ab451587"
+ },
+ "prompts": [
+  {
+   "text": "An object scuttles in place with legs moving.",
+   "text_emb": "text_emb_1.npy",
+   "seed": 17,
+   "frames": 31,
+   "reference": [
+    "ref_1.gif",
+    "ref_1.bvh"
+   ]
+  }
+ ]
+}

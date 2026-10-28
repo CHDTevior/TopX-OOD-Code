@@ -1,0 +1,28 @@
+{
+ "rig": "OBJ_ffd55e32c04c498681ed11584bdd49a5",
+ "body_plan": "quadrupedal",
+ "joints": 20,
+ "source": {
+  "name": "Bear Walk",
+  "author": "tiikeri",
+  "author_url": "https://sketchfab.com/tiikeri",
+  "license": "CC Attribution",
+  "license_slug": "by",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "url": "https://sketchfab.com/3d-models/bear-walk-ffd55e32c04c498681ed11584bdd49a5",
+  "retrieved": "2026-09-26",
+  "object_id": "ffd55e32c04c498681ed11584bdd49a5"
+ },
+ "prompts": [
+  {
+   "text": "An object walks in place.",
+   "text_emb": "text_emb_1.npy",
+   "seed": 17,
+   "frames": 200,
+   "reference": [
+    "ref_1.gif",
+    "ref_1.bvh"
+   ]
+  }
+ ]
+}

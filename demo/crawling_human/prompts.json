@@ -1,0 +1,28 @@
+{
+ "rig": "OBJ_a87532a3e89947159cc1303008c06eaf",
+ "body_plan": "marine",
+ "joints": 44,
+ "source": {
+  "name": "Crawling mutated human",
+  "author": "Elisey",
+  "author_url": "https://sketchfab.com/dwelfster",
+  "license": "CC Attribution",
+  "license_slug": "by",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "url": "https://sketchfab.com/3d-models/crawling-mutated-human-a87532a3e89947159cc1303008c06eaf",
+  "retrieved": "2026-09-26",
+  "object_id": "a87532a3e89947159cc1303008c06eaf"
+ },
+ "prompts": [
+  {
+   "text": "An object swims in place with arms and legs moving.",
+   "text_emb": "text_emb_1.npy",
+   "seed": 17,
+   "frames": 149,
+   "reference": [
+    "ref_1.gif",
+    "ref_1.bvh"
+   ]
+  }
+ ]
+}
